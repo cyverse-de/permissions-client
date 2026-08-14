@@ -12,7 +12,7 @@
   :dependencies [[cheshire "6.2.0"]
                  [clj-http "3.13.1"]
                  [com.cemerick/url "0.1.1" :exclusions [com.cemerick/clojurescript.test]]
-                 [com.github.seancorfield/honeysql "2.7.1368"]
+                 [com.github.seancorfield/honeysql "2.7.1437"]
                  [dev.weavejester/medley "1.10.0"]
                  [org.clojure/clojure "1.12.5"]]
   :profiles {:dev {:dependencies [[clj-http-fake "1.0.4"]]}
