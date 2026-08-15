@@ -1,4 +1,4 @@
-(defproject org.cyverse/permissions-client "2.8.6"
+(defproject org.cyverse/permissions-client "2.8.7-SNAPSHOT"
   :description "A Clojure client library for the CyVerse permissions service."
   :url "https://github.com/cyverse-de/permissions-client"
   :license {:name "BSD"
